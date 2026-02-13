@@ -1,6 +1,2 @@
-Hello from Branch1
+Hello from Branch1 and Branch2
 
-
-
-
-Hello World
